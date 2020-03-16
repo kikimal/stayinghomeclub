@@ -456,6 +456,9 @@
 
 - name: "[TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html)"
   status: post-poning or going online-only
+  
+- name: "[The Things Conference on Tour Maribor](https://www.thethingsnetworkslovenia.org/)"
+  status: Live event postponed to October 2nd, virtual conference will happen on April 2nd
 
 - name: "[TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2)"
   status: postponed until Oct. 1-2
